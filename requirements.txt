@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+psycopg2-binary
+fastapi
+uvicorn
+pydantic
+streamlit
+pandas
+requests
